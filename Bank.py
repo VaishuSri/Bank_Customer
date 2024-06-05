@@ -176,7 +176,7 @@ Thank you for visiting our project! Your interest and support mean a lot to us. 
 Together, we can make data analysis more accessible and powerful for everyone. If you enjoy using our application, please consider contributing to our project or spreading the word.
 Your feedback and contributions are always welcome.
 
-Github_Link:https://github.com/VaishuSri/Bank_Customer.git
+Github_Link:https:https://github.com/VaishuSri/Bank_Customer.git
 Application_Link:https://bank-customer.onrender.com/
 """)
 
