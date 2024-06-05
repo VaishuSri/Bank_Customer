@@ -171,7 +171,12 @@ if page=="About":
        st.write("""
 **About Me!**
     Hi, I am G Srivaishnavi B.E Graduate, have an 2+yrs of IT Experience.
+Thank You,
+Thank you for visiting our project! Your interest and support mean a lot to us. We hope you find the tools and resources provided here useful and engaging. 
+Together, we can make data analysis more accessible and powerful for everyone. If you enjoy using our application, please consider contributing to our project or spreading the word.
+Your feedback and contributions are always welcome.
 
 Github_Link:https://github.com/VaishuSri/Bank_Customer.git
+Application_Link:https://bank-customer.onrender.com/
 """)
 
