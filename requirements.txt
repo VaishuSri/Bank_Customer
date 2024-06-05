@@ -2,4 +2,4 @@ streamlit
 pandas
 seaborn
 matplotlib==3.3.4
-sklearn
+scikit-learn
