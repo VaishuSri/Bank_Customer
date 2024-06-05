@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 
 # Load the data
-df = pd.read_csv("C:/Users/RAMAN/Desktop/DS/PROJECT/Bank_Churn/Bank_Churn.csv")
+df = pd.read_csv("Bank_Churn.csv")
 df.drop(columns=['Unnamed: 0'], inplace=True)
 
 # Streamlit app
